@@ -40,7 +40,7 @@ class _MyCardState extends State<MyCard> {
               children: <Widget>[
                 CircleAvatar(
                   radius: 90.0,
-                  backgroundImage: AssetImage('images/abdo1.jpg'),
+                  backgroundImage: AssetImage('assets/abdo1.jpg'),
                 ),
                 Name(),
                 Job(),
